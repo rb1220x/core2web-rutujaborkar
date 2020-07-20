@@ -1,0 +1,4 @@
+*.Assignment filter=lfs diff=lfs merge=lfs -text
+*.Logic-Building filter=lfs diff=lfs merge=lfs -text
+*.Practice-Code filter=lfs diff=lfs merge=lfs -text
+*.fbx filter=lfs diff=lfs merge=lfs -text
